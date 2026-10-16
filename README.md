@@ -17,3 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 "# dept.event-2500069014" 
 "# dept.event-event-registration-2500069014" 
 "# dept.event-event-registration-2500069014" 
+"# dept.event-event-registration-2500069014" 
